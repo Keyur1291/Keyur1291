@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Keyur1291](https://github.com/Keyur1291)
 
-- 💬 Ask me about **HTML, C,JAVA**
+- 💬 Ask me about **Web, Android, Ui/Ux**
 
 - 📫 How to reach me **pkeyur2138@gmail.com**
 
