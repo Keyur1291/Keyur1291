@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Internship Portal](https://github.com/Keyur1291/Internship-Portal-App)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Keyur1291](https://github.com/Keyur1291)
 
@@ -12,6 +12,8 @@
 - 📫 How to reach me **pkeyur2138@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ol9MIrXfi8vqQlTL-d5cCTZPsmvYWS_0/view?usp=drive_link)
+
+- Google Developer Profile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
