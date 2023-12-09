@@ -9,10 +9,6 @@
 
 - 💬 Ask me about **Web, Android, Ui/Ux**
 
-- 📫 How to reach me **pkeyur2138@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ol9MIrXfi8vqQlTL-d5cCTZPsmvYWS_0/view?usp=drive_link)
-
 - Google Developer Profile - [https://g.dev/Keyur1291](https://g.dev/Keyur1291)
 
 <h3 align="left">Connect with me:</h3>
